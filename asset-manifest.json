@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/proyectoreactfinal/static/css/main.115490a5.chunk.css",
+    "main.js": "/proyectoreactfinal/static/js/main.c8e097be.chunk.js",
+    "main.js.map": "/proyectoreactfinal/static/js/main.c8e097be.chunk.js.map",
+    "runtime-main.js": "/proyectoreactfinal/static/js/runtime-main.25530297.js",
+    "runtime-main.js.map": "/proyectoreactfinal/static/js/runtime-main.25530297.js.map",
+    "static/js/2.60cb59d0.chunk.js": "/proyectoreactfinal/static/js/2.60cb59d0.chunk.js",
+    "static/js/2.60cb59d0.chunk.js.map": "/proyectoreactfinal/static/js/2.60cb59d0.chunk.js.map",
+    "index.html": "/proyectoreactfinal/index.html",
+    "static/css/main.115490a5.chunk.css.map": "/proyectoreactfinal/static/css/main.115490a5.chunk.css.map",
+    "static/js/2.60cb59d0.chunk.js.LICENSE.txt": "/proyectoreactfinal/static/js/2.60cb59d0.chunk.js.LICENSE.txt",
+    "static/media/Footer.css": "/proyectoreactfinal/static/media/fondo.6732ce65.jpg",
+    "static/media/logo.8bba2df5.jpg": "/proyectoreactfinal/static/media/logo.8bba2df5.jpg",
+    "static/media/paciente.204a13b4.png": "/proyectoreactfinal/static/media/paciente.204a13b4.png",
+    "static/media/vacunacion.eef4131b.png": "/proyectoreactfinal/static/media/vacunacion.eef4131b.png",
+    "static/media/veterinario.8ce5bb60.png": "/proyectoreactfinal/static/media/veterinario.8ce5bb60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25530297.js",
+    "static/js/2.60cb59d0.chunk.js",
+    "static/css/main.115490a5.chunk.css",
+    "static/js/main.c8e097be.chunk.js"
+  ]
+}
